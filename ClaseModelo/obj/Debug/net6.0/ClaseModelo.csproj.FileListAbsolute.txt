@@ -1,0 +1,12 @@
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\bin\Debug\net6.0\ClaseModelo.deps.json
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\bin\Debug\net6.0\ClaseModelo.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\bin\Debug\net6.0\ClaseModelo.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ClaseModelo.csproj.AssemblyReference.cache
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ClaseModelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ClaseModelo.AssemblyInfoInputs.cache
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ClaseModelo.AssemblyInfo.cs
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ClaseModelo.csproj.CoreCompileInputs.cache
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ClaseModelo.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\refint\ClaseModelo.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ClaseModelo.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseModelo\obj\Debug\net6.0\ref\ClaseModelo.dll

@@ -1,0 +1,14 @@
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\bin\Debug\net6.0\ClaseAcceso.deps.json
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\bin\Debug\net6.0\ClaseAcceso.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\bin\Debug\net6.0\ClaseAcceso.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.csproj.AssemblyReference.cache
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.AssemblyInfoInputs.cache
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.AssemblyInfo.cs
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.csproj.CoreCompileInputs.cache
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\refint\ClaseAcceso.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ref\ClaseAcceso.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\bin\Debug\net6.0\ClaseAcceso.runtimeconfig.json
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseAcceso\obj\Debug\net6.0\ClaseAcceso.genruntimeconfig.cache
