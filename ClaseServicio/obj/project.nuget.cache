@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FMcmb/xXQGw1rhlV7gwyIGtY+kQmhnRze0qdysxDEnVabq6QhQckeNYW9OXY157ggxm+jj824b/jHvhaz2taEw==",
+  "dgSpecHash": "5R9W/TXY/VJHj0mWoz9Ctrb3Ar+MNCnwN7lydGJGNTxbNn9kLUCcuAl8ydOrmmMD8CnLz32xWb8I/mPsUzTlHw==",
   "success": true,
   "projectFilePath": "C:\\Users\\FU41184742\\Documents\\proyectos\\DemoNetCore\\ApiResources\\ClaseServicio\\ClaseServicio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FU41184742\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\FU41184742\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\FU41184742\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\FU41184742\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\FU41184742\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\FU41184742\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",

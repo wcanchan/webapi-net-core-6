@@ -67,3 +67,4 @@ C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ApiResources\bi
 C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ApiResources\bin\Debug\net6.0\ClaseServicio.pdb
 C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ApiResources\bin\Debug\net6.0\ClaseAcceso.pdb
 C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ApiResources\bin\Debug\net6.0\ClaseNegocio.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ApiResources\bin\Debug\net6.0\BCrypt.Net-Next.dll
