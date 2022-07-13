@@ -14,8 +14,6 @@ namespace ClaseModelo.Dto.TipoDocumento
             NombreCorto = nombreCorto;
         }
         public string CodigoTipoDocumento { get; set; } = null!;
-        public string Nombre { get; set; } = null!;
         public string? NombreCorto { get; set; }
-        public bool Activo { get; set; }
     }
 }
