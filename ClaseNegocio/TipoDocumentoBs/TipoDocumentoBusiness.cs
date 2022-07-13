@@ -11,14 +11,18 @@ namespace ClaseNegocio.TipoDocumentoBs
 {
     public class TipoDocumentoBusiness
     {
-        protected readonly IMapper? _mapper;
-        public TipoDocumentoBusiness(IMapper mapper)
+        public TipoDocumentoBusiness()
         {
-            _mapper = mapper;
+
         }
         public IEnumerable<TipoDocumentoDto> list(IEnumerable<TipoDocumento> tipoDocumentos)
         {
-            return _mapper.Map<IEnumerable<TipoDocumentoDto>>(tipoDocumentos);
-        }
+            List<TipoDocumentoDto> list = new List<TipoDocumentoDto>();
+            foreach (var tipoDocumento in tipoDocumentos)
+            {
+                list.Add(new TipoDocumentoDto(tipoDocumento.CodigoTipoDocumento , tipoDocumento.NombreCorto));
+            }
+            return list;
+         }
     }
 }

@@ -3,3 +3,17 @@ C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\o
 C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\ClaseServicio.AssemblyInfoInputs.cache
 C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\ClaseServicio.AssemblyInfo.cs
 C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\ClaseServicio.csproj.CoreCompileInputs.cache
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseServicio.deps.json
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseServicio.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseServicio.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseAcceso.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseModelo.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseNegocio.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseAcceso.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseModelo.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\bin\Debug\net6.0\ClaseNegocio.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\ClaseServicio.csproj.CopyComplete
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\ClaseServicio.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\refint\ClaseServicio.dll
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\ClaseServicio.pdb
+C:\Users\FU41184742\Documents\proyectos\DemoNetCore\ApiResources\ClaseServicio\obj\Debug\net6.0\ref\ClaseServicio.dll

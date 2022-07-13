@@ -1,4 +1,5 @@
-﻿using ClaseAcceso;
+﻿using AutoMapper;
+using ClaseAcceso;
 using ClaseModelo.Dto.TipoDocumento;
 using ClaseNegocio.TipoDocumentoBs;
 using Microsoft.EntityFrameworkCore;
@@ -18,11 +19,11 @@ namespace ClaseServicio.TipoDocumentoServ
             _context = context;
             _business = new TipoDocumentoBusiness();
         }
-        public async IEnumerable<TipoDocumentoDto> list()
+        public async Task<IEnumerable<TipoDocumentoDto>> list()
         {
             IEnumerable<TipoDocumento> readers = await _context.TipoDocumentos.ToListAsync();
             
-            return  ;
+            return _business.list(readers);
         }
     }
 }

@@ -8,6 +8,11 @@ namespace ClaseModelo.Dto.TipoDocumento
 {
     public class TipoDocumentoDto
     {
+        public TipoDocumentoDto(string codigoTipoDocumento, string nombreCorto)
+        {
+            CodigoTipoDocumento = codigoTipoDocumento;
+            NombreCorto = nombreCorto;
+        }
         public string CodigoTipoDocumento { get; set; } = null!;
         public string Nombre { get; set; } = null!;
         public string? NombreCorto { get; set; }
